@@ -89,8 +89,8 @@ const RegisterModal = () => {
         onClick={() => {}}
       />
       <div className="text-neutral-500">
-
       </div>
+      
     </div>
   );
 
